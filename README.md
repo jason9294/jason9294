@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/762484891945664542)](https://discord.com/users/762484891945664542)
 <!--
 **jason9294/jason9294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
