@@ -3,7 +3,7 @@
 ## About me
 - Student: University student | Department of Information Management (AI program)
 - Interests: Programming, gaming, cooking
-- -Location: Taiwan (Please forgive me if my English is not perfect)
+- Location: Taiwan (Please forgive me if my English is not perfect)
 
 ## Skills
 - Proficient in Python programming
